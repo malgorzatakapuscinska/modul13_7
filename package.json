@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/malgorzatakapuscinska/modul13_5#readme",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "stat-mode": "^0.2.2"
   }
 }
