@@ -1,0 +1,12 @@
+
+COMMIT_EDITMSG
+description
+HEAD
+config
+hooks
+info
+index
+packed-refs
+objects
+refs
+logs
